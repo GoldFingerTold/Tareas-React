@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import '../style/TareaFormulario.css';
+import '../style/ListaDeTareas.css'
 import { v4 as uuidv4 } from 'uuid';
 
 function TareaFormulario(props) {
